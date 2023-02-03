@@ -1,4 +1,4 @@
-### Hi there, I am Vlad 👋
+### Hello there, I am Vlad 👋
 
 - 🔭 I’m currently working on Chess project.
 - 🌱 I’m currently learning Next.js and MongoDB.
@@ -12,5 +12,5 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" width="50px"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" width="50px"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" width="50px"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" width="50px"/>
           
-
