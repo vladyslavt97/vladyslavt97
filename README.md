@@ -17,3 +17,7 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg
 
 
 Get in touch: [<img alt="alt_text" width="30px" target="_blank" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />](https://www.linkedin.com/in/vladyslav-tsurkanenko/)
+
+<hr>
+<b>To launch the project locally: </b>
+nodemon server.js 
