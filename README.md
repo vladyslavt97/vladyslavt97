@@ -16,6 +16,6 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg
 
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vladyslavt97)](https://github.com/anuraghazra/github-readme-stats) ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vladyslavt97&hide=contribs,prs)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vladyslavt97&exclude_repo=Exercises)](https://github.com/anuraghazra/github-readme-stats) ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vladyslavt97&hide=contribs,prs)
 
 
