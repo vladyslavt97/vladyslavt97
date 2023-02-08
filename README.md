@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on Chess project.
 - 🌱 I’m currently learning Next.js and MongoDB.
-- 😎 Check out my portfolio [website](https://portfolio-jade-chi-24.vercel.app/)!
+- 😎 Check out my [portfolio website](https://portfolio-jade-chi-24.vercel.app/)!
 - 📫 How to reach me: vladyslavt97@gmail.com or [<img alt="alt_text" width="30px" target="_blank" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />](https://www.linkedin.com/in/vladyslav-tsurkanenko/)
 
 #### Technologies I know: 
