@@ -19,6 +19,8 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vladyslavt97&exclude_repo=Bootcamp-tasks,Petition,Imageboard)](https://github.com/anuraghazra/github-readme-stats) ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vladyslavt97&hide=contribs,prs)
 
+##### my Codewars account:
+[<img alt="alt_text" width="30px" target="_blank" src="https://user-images.githubusercontent.com/85371429/217860756-2055b324-dd73-4f4a-97d2-f479c1be9c36.svg" />](https://www.codewars.com/users/vladyslavt97)
 
-### Watch my contribution graph get eaten by the snake 🐍
-<img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/vladyslavt97/vladyslavt97/output/github-contribution-grid-snake.svg">
+
+
