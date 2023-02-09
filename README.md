@@ -21,4 +21,4 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg
 
 
 ### Watch my contribution graph get eaten by the snake 🐍
-![Jesusalc snake gif](https://github.com/vladyslavt97/vladyslavt97/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/vladyslavt97/vladyslavt97/blob/output/github-contribution-grid-snake.svg)
