@@ -3,6 +3,7 @@
 - 🔭 I’m currently working on Chess project.
 - 🌱 I’m currently learning Next.js and MongoDB.
 - 😎 Check out my [portfolio website](https://portfolio-jade-chi-24.vercel.app/)!
+- 🦾 my Codewars account: [<img alt="alt_text" width="30px" target="_blank" src="https://user-images.githubusercontent.com/85371429/217860756-2055b324-dd73-4f4a-97d2-f479c1be9c36.svg" />](https://www.codewars.com/users/vladyslavt97)
 - 📫 How to reach me: vladyslavt97@gmail.com or [<img alt="alt_text" width="30px" target="_blank" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />](https://www.linkedin.com/in/vladyslav-tsurkanenko/)
 
 #### Technologies I know: 
@@ -19,7 +20,6 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vladyslavt97&exclude_repo=Bootcamp-tasks,Petition,Imageboard)](https://github.com/anuraghazra/github-readme-stats) ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vladyslavt97&hide=contribs,prs)
 
-##### my Codewars account: [<img alt="alt_text" width="30px" target="_blank" src="https://user-images.githubusercontent.com/85371429/217860756-2055b324-dd73-4f4a-97d2-f479c1be9c36.svg" />](https://www.codewars.com/users/vladyslavt97)
 
 
 
