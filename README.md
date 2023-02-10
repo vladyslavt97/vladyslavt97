@@ -23,4 +23,4 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg
 
 
 
-![](https://github.com/vladyslavt97/snk/raw/output/github-contribution-grid-snake.svg)
+![](https://github.com/vladyslavt97/vladyslavt97/raw/output/github-contribution-grid-snake.svg)
