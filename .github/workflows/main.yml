@@ -30,7 +30,7 @@ jobs:
       # push the content of <build_dir> to a branch
       # the content will be available at https://raw.githubusercontent.com/<github_user>/<repository>/<target_branch>/<file> , or as github page
       - name: generate-snake-game-from-github-contribution-grid
-          uses: Platane/snk@v1.1.4
+        uses: Platane/snk@v1.1.4
 
         with:
           target_branch: main
