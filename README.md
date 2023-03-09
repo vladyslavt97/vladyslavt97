@@ -1,7 +1,6 @@
 ### Hello there, I am Vlad 👋
 
-- 🔭 I’m currently learning new databases.
-- 🌱 I’m currently learning Next.js and MongoDB.
+- 🌱 I’m currently learning <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" width="40px"/>.
 - 😎 Check out my [portfolio website](https://portfolio-jade-chi-24.vercel.app/)!
 - 🦾 my Codewars account: [<img alt="alt_text" width="30px" target="_blank" src="https://user-images.githubusercontent.com/85371429/217860756-2055b324-dd73-4f4a-97d2-f479c1be9c36.svg" />](https://www.codewars.com/users/vladyslavt97)
 - 📫 How to reach me: vladyslavt97@gmail.com or [<img alt="alt_text" width="30px" target="_blank" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />](https://www.linkedin.com/in/vladyslav-tsurkanenko/)
