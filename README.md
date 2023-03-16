@@ -1,6 +1,7 @@
 ### Hello there, I am Vlad 👋
  
-- 🌱 I’m currently learning <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" width="40px"/>.
+- 🌱 I’m currently learning <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" width="40px"/> & <img src="https://user-images.githubusercontent.com/85371429/225772344-a079406f-8582-4370-802d-323608e3db5a.png" width="40px"/>
+.
 - 😎 Check out my [portfolio website](https://portfolio-jade-chi-24.vercel.app/)!
 - 🦾 my Codewars account: [<img alt="alt_text" width="20px" target="_blank" src="https://user-images.githubusercontent.com/85371429/217860756-2055b324-dd73-4f4a-97d2-f479c1be9c36.svg" />](https://www.codewars.com/users/vladyslavt97)
 - 📫 How to reach me: vladyslavt97@gmail.com or [<img alt="alt_text" width="20px" target="_blank" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />](https://www.linkedin.com/in/vladyslav-tsurkanenko/)
