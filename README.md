@@ -1,6 +1,6 @@
 ### Hello there, I am Vlad 👋
  
-- 🌱 I’m currently learning <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" width="40px"/> and <img src="https://user-images.githubusercontent.com/85371429/225772344-a079406f-8582-4370-802d-323608e3db5a.png" width="60px"/>.
+- 🌱 I’m currently learning <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" width="40px"/>,<img src="https://github.com/vladyslavt97/vladyslavt97/assets/85371429/737fd9a3-f850-4be8-846c-c324dde7e7ad" width="30px"/> and <img src="https://user-images.githubusercontent.com/85371429/225772344-a079406f-8582-4370-802d-323608e3db5a.png" width="60px"/>.
 
 - 😎 Check out my [portfolio website](https://portfolio-vt.vercel.app/)!
 <!-- - Currently working at <img src="https://user-images.githubusercontent.com/85371429/229310936-814fcb53-0d54-4ff8-a624-d3753cf1dfc6.png" width="70px"/> -->
